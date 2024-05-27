@@ -6,5 +6,5 @@ Wither clone repo or downloan and extract the zip for same.
 From the app root folder which contains package.json, run - **npm install**
 Then run - **node index.js** to start server.
 
-In order to consume api in https://github.com/prashantteli/telecom-cms you need this server to be set up locally and running.
+In order to consume api in [https://github.com/prashantteli/telecom-cms](https://github.com/prashantteli/ui-test-27th-may) you need this server to be set up locally and running.
 
